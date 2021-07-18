@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px 0;
+    margin: 0;
+    text-align: center;
+    background-color:khaki;
+}
+
+span {
+    border-bottom: 2px solid black;
+    padding: 4px;
+}
+
+button {
+    margin: 30px 60px;
+    background: white;
+    color:darkgoldenrod;
+    border: 1px solid black;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 20px 80px;
+    font-size:small;
+    border-radius: 40px;
+    margin-top: 70px;
+    margin-bottom: 40px;
+    background-color:maroon;
+}
+.content{
+  display: grid;
+  place-items: center;
+  margin-top: 100px;
+}
+h1{
+    font-size:xx-large;
+}
+#sum-el{
+    font-size:x-large;
+    font-weight: bold;
+}
